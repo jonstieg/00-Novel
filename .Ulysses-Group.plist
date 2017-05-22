@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>countingGoal</key>
+	<dict>
+		<key>counterIdentifier</key>
+		<string>words</string>
+		<key>targetResult</key>
+		<integer>70000</integer>
+		<key>type</key>
+		<string>close_to</string>
+	</dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>countingGoal</key>
+		<real>517114608.25523502</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Dufus.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517113188.65555501</real>
+				<key>version</key>
+				<dict>
+					<key>7843D669-3F8E-41D4-9D3D-0B2156D65503</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>userIconName</key>
+		<real>517114622.25553</real>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Dufus.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>userIconName</key>
+	<string>Cloud</string>
+	<key>versioning</key>
+	<dict>
+		<key>countingGoal</key>
+		<dict>
+			<key>7843D669-3F8E-41D4-9D3D-0B2156D65503</key>
+			<integer>4</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>7843D669-3F8E-41D4-9D3D-0B2156D65503</key>
+			<integer>5</integer>
+		</dict>
+		<key>userIconName</key>
+		<dict>
+			<key>7843D669-3F8E-41D4-9D3D-0B2156D65503</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
