@@ -3,7 +3,7 @@
 
 "No never," Arvin said. "I used to but then once a doctor told it was killing my retinal cells."
 
-"That sounds unligely," the doctor said. "More ligely corneal abbrations." She over articulated *corneal abbrations* and Arvin squirmed.
+"That sounds unligely," the doctor said. "More ligely corneal abbrations." She over-articulated *corneal abbrations* and Arvin squirmed.
 
 "Goddammit yuck," Arvin said. Excuse me.
 
@@ -19,4 +19,6 @@ My ice. He couldn't place it. Eyes.
 
 "Oh, fine. I mean they feel fine. I guess it's your job to tell me if they are fine."
 
-She smiled again. She was so patient with him. He was more blabbery than usual. It was so rare he spoke to anyone much anymore he realized suddenly. 
+She smiled again. She was so patient with him. He was more blabbery than usual. It was so rare he spoke to anyone much anymore he realized suddenly.
+
+"Las take a look." 
