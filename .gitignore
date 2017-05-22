@@ -26,6 +26,8 @@
 *.sql
 *.sqlite
 *.plist
+*.un
+*~
 
 # OS generated files #
 ######################
